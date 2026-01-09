@@ -81,6 +81,9 @@ Los paquetes pueden instalarse ejecutando:
 install.packages(c("tidyverse", "ggplot2", "broom", "caret", "yardstick"))
 ```
 
+### **El conjunto de datos de vuelo se puede descargar del siguiente enlace a un drive.**
+https://drive.google.com/file/d/1rWdCsShDmFXC-GRUWMV0gS200IgMmkjq/view?usp=sharing
+
 ---
 ## Instrucciones de uso
 
